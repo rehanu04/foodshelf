@@ -1,0 +1,26 @@
+﻿# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- IDE ---
+.vscode/
+.idea/
+*.iml
+
+# --- Android / Gradle ---
+android/.gradle/
+android/**/build/
+android/**/release/
+android/local.properties
+android/.idea/
+android/*.iml
+android/captures/
+android/.externalNativeBuild/
+android/.cxx/
+
+# --- Node / Cloudflare Worker ---
+worker/node_modules/
+worker/dist/
+worker/.wrangler/
+worker/.env
+worker/.env.*
