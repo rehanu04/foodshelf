@@ -1,4 +1,4 @@
-package com.example.foodshelf.ui.theme
+package com.rehanu.foodshelf.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

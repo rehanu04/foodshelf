@@ -1,4 +1,4 @@
-package com.example.foodshelf.ui.theme
+package com.rehanu.foodshelf.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
