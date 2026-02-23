@@ -4,12 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.foodshelf"
-    compileSdk {
-        version = release(36) {
-            minorApiLevel = 1
-        }
+    namespace = "com.rehanu.foodshelf"
+    defaultConfig {
+        applicationId = "com.rehanu.foodshelf"
     }
+}
 
     defaultConfig {
         applicationId = "com.example.foodshelf"
